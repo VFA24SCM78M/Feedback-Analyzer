@@ -1,0 +1,21 @@
+# Ignore build output
+bin/
+obj/
+
+# Ignore Visual Studio/VS Code files
+.vscode/
+*.user
+*.suo
+
+# Ignore build logs
+*.log
+
+# Ignore compiled DLLs, EXEs
+*.dll
+*.exe
+*.pdb
+
+# Others (optional)
+*.cache
+*.db
+*.vs/
