@@ -19,3 +19,6 @@ obj/
 *.cache
 *.db
 *.vs/
+
+/feedback-analyzer-frontend/node_modules/
+**/node_modules/
